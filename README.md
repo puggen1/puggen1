@@ -5,6 +5,7 @@
   - on Email: bendik.kvam61@gmail.com
   - on Discord: flying lawnmower#8361
 - More about me:
+  - 🖋️ Favourite font is Montserrat
   - 💻 Tech person
   - 📷 Hobby photographer
   - 🎮 Gamer

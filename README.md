@@ -1,9 +1,10 @@
 ### Welcome to my Profile!
-- 🏫 I’m currently studying Front-end development at Noroff
+- 🔍 I’m currently looking for work
+- 📱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on projects where i can both share my knowledge and learn something new 
 - 📫 How to reach me: 
   - on Email: bendik.kvam.work@gmail.com
-  - on Discord: flying lawnmower#8361
+  - on Discord: flyinglawnmower
 - More about me:
   - 🖋️ Favourite font is Montserrat
   - 💻 Tech person

@@ -1,7 +1,7 @@
 ### Welcome to my Profile!
 - 🔍 I’m currently looking for work
-- 📱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on projects where i can both share my knowledge and learn something new 
+- 📱 I’m currently learning React Native, and more about Next.js
+- 👯 I’m looking to collaborate on projects where I can both share my knowledge and learn something new 
 - 📫 How to reach me: 
   - on Email: bendik.kvam.work@gmail.com
   - on Discord: flyinglawnmower

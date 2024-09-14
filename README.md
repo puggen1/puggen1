@@ -10,3 +10,4 @@
   - 💻 Tech person
   - 📷 Hobby photographer
   - 🎮 Gamer
+  - 🧗‍♂️ Climber
